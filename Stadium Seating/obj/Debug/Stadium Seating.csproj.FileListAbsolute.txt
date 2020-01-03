@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe.config
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.pdb
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Stadium Seating\Stadium Seating\obj\Debug\Stadium_Seating.stadiumSeating.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Stadium Seating\Stadium Seating\obj\Debug\Stadium_Seating.Properties.Resources.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 2\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.pdb
